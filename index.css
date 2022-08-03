@@ -1,8 +1,16 @@
-*{
-    border: 2px solid black;
-}
+
 div{
     border: 2px solid black;
+}
+
+#container{
+    height: 1600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin-top: 50px;;
 }
 
 #container div{
@@ -110,10 +118,64 @@ div{
 }
 
 
-#container{
-    height: 1600px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+
+
+
+#secondLine, #fourthLine, #sixthLine, #eighthLine,
+#tenthLine, #twelvthLine, #fourteenthLine, #sixteenthLine{
+    background-color: ;
+}
+
+
+#secondLine:hover, #fourthLine:hover{
+    background-color: RGB(199,36,177);
+} 
+
+#sixthLine:hover, #eighthLine:hover{
+    background-color: RGB(77, 77, 255);
+}
+
+#tenthLine:hover, #twelvthLine:hover{
+    background-color: RGB(210,39,48);
+} 
+
+#fourteenthLine:hover, #sixteenthLine:hover{
+    background-color: RGB(68,214,44);
+}
+
+#firstLine:hover, #thirdLine:hover{
+    background-color: 	rgb(235, 4, 80);
+} 
+
+#fifthLine:hover, #seventhLine:hover{
+    background-color: rgb(245, 71, 195)	;
+}
+
+#ninthLine:hover, #eleventhLine:hover{
+    background-color: rgb(122, 4, 6);
+} 
+
+#thirteenthLine:hover, #fifteenthLine:hover{
+    background-color: 	rgb(46, 20, 36);
+}
+
+#secondCol, #fourthCol, #sixthCol, #eighthCol,
+#tenthCol, #twelvthCol, #fourteenthCol, #sixteenthCol{
+    background-color: ;
+}
+
+#secondCol:hover, #fourthCol:hover{
+    background-color: rgb(40, 191, 139);
+} 
+
+#sixthCol:hover, #eighthCol:hover{
+    background-color: rgb(164, 172, 100);
+}
+
+#tenthCol:hover, #twelvthCol:hover{
+    background-color: rgb(68, 76, 44);
+}
+
+#fourteenthCol:hover, #sixteenthCol:hover{
+    background-color: rgb(36, 200, 220);
 }
