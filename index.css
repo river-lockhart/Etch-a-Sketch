@@ -1,0 +1,119 @@
+*{
+    border: 2px solid black;
+}
+div{
+    border: 2px solid black;
+}
+
+#container div{
+    width: 2000px;
+    height: 100px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+#firstLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#secondLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#thirdLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#fourthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#fifthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#sixthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#seventhLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#eighthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#ninthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#tenthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#eleventhLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#twelvthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#thirteenthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#fourteenthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#fifteenthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+#sixteenthLine div{
+    width: 100px;
+    height: 100%;
+    flex: 1 1 auto;
+}
+
+
+#container{
+    height: 1600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
